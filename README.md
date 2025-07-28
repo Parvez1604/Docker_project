@@ -17,3 +17,4 @@ docker-compose up --build
 #eight try after accessing ngrok generated link and click on blue button
 #ninth try
 #tenth try
+#10th build was successful , I think bcoz of Jenkins restart it worked!!
