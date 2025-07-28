@@ -13,3 +13,4 @@ docker-compose up --build
 #fourth try
 #fifth try
 #sixth try with anonymous user setings
+#seventh try by making GitHub repo public
