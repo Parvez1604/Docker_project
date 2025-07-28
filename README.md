@@ -12,3 +12,4 @@ docker-compose up --build
 #third try
 #fourth try
 #fifth try
+#sixth try with anonymous user setings
